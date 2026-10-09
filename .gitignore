@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+
+# DICOM/data files
+data/
+
+# Output images/reports
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Personal notes / ideas
+PROJECT_IDEAS.md
+PROJECT_NOTES.md
+
+# System files
+.DS_Store
